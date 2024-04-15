@@ -1,0 +1,58 @@
+/* ProfileList.css */
+.profile-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.profile-card h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.profile-card img {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.profile-card p {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.profile-card button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+/* ProfileDetails.css */
+.profile-details {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.profile-details h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.profile-details img {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.profile-details p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
